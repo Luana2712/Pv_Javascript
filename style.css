@@ -10,5 +10,13 @@
 body{
     background-color: var(--cor-de-fundo);
     color:var(--branco);
-    font-family: 'PT Serif';
+   font-family:'PT Serif' ; 
+
+}
+.botao{
+    font-family:'PT Serif' ;
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    font-size: 18px;
+
 }
