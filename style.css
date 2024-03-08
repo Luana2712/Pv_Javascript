@@ -69,7 +69,9 @@ border-bottom: 4px solid var(--verde);
 }
 
 .abas-texto{
-    
+    background-color: var(--texto-fundo);
+    padding: 48px;
+    border-radius: 0 0 40px 40px;
 }
 
 
