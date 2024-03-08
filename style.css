@@ -72,8 +72,12 @@ border-bottom: 4px solid var(--verde);
     padding: 48px;
     border-radius: 0 0 40px 40px;
 }
-.aba-conteudo{
-    display: none;
+
+.aba-conteudo.ativo{
+    display: block;
+}
+    .aba-conteudo{
+        display: none;
 }
 
 
