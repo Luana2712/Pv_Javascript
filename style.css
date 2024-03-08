@@ -67,13 +67,14 @@ border-radius: 0 40px 0 0;
 background-color: var(--botao-ativo);
 border-bottom: 4px solid var(--verde);
 }
-
 .abas-texto{
     background-color: var(--texto-fundo);
     padding: 48px;
     border-radius: 0 0 40px 40px;
 }
-
+.aba-conteudo{
+    display: none;
+}
 
 
 
