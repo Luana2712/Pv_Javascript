@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
---cor-de-fundo: #ff0080c7;
+--cor-de-fundo: #ff4fa79a;
 --verde: #00ffea;
 --branco: #FFFFFF;
---botao-ativo: #000000;
---botao-inativo: rgba(255, 72, 173, 0.596);
---texto-fundo: rgba(255, 0, 140, 0.548);
+--botao-ativo: rgb(235, 118, 190);
+--botao-inativo: rgba(255, 72, 173, 0.692);
+--texto-fundo: rgba(255, 0, 140, 0.281);
 }
 
 body {
