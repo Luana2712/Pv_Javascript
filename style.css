@@ -81,11 +81,13 @@ border-bottom: 4px solid var(--verde);
 }
 .aba-conteudo-titulo-principal{
     text-align: center;
+}
+
+.aba-conteudo-titulo-secundario{
+    text-align: center;
     color: var(--verde);
     text-transform: uppercase;
 }
-
-
 
 
 
