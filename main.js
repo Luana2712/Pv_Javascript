@@ -14,4 +14,5 @@ textos[i].classList.add("ativo");
 }
 }
 
-const contadores = document.querySelector
+const botoes = document.querySelectorAll(".contador");
+const tempoObjetivo1 = new Date("2024-10-05t00:00:00")
